@@ -310,7 +310,7 @@ header .intro-text .intro-heading {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
-        font-style: italic;
+        font-style: Bold;
         line-height: 40px;
     }
 
@@ -339,7 +339,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+    font-style: Bold;
     font-weight: 400;
 }
 
