@@ -65,6 +65,19 @@ people:
       url: #
     - title: linkedin
       url: #
+      
+ 
+- name: Preethi
+  pic: 
+  position: Full Stack Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+      
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
